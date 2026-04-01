@@ -1,6 +1,7 @@
 # Projects
 
-I've implemented **micrograd** and the ideas from the paper **Attention Is All You Need**: https://arxiv.org/pdf/1706.03762
+- **Micrograd** (An autograd engine)
+- **GPT From scratch** (A PyTorch re-implementation of GPT, both training and inference.) <https://arxiv.org/pdf/1706.03762>
 
 This folder contains:
 - `micrograd/`: micrograd from scratch (autograd + backprop + MLP notebooks)
