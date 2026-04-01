@@ -9,7 +9,7 @@ This folder contains:
 ## Cool plots/images I've found
 
 ### Transformer
-![Transformer](Transformer.png)
+![Transformer](images/Transformer.png)
 
 ### Micrograd loss backprop
-![Micrograd backprop](<Micrograd backprop.png>)
+![Micrograd backprop](<images/Micrograd backprop.png>)
